@@ -1,1 +1,1 @@
-# 요구사항 정의서
+# TCG Collection Platform - 요구사항 정의서
