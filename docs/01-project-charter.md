@@ -1,4 +1,4 @@
-# TCG Collection Platform - Project Charter
+# TCG Collection Platform - 프로젝트 헌장
 
 ## 1. 프로젝트 개요
 
